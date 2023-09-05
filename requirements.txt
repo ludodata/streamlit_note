@@ -1,0 +1,2 @@
+streamlit==1.26.0
+pytube==15.0.0
