@@ -1,2 +1,9 @@
 streamlit==1.26.0
-pytube==15.0.0
+pandas
+matplotlib.pyplot
+sklearn.cluster import KMeans
+sklearn.preprocessing import StandardScaler
+sklearn.preprocessing import LabelEncoder
+sklearn.model_selection import train_test_split
+sklearn.linear_model import LogisticRegression
+sklearn.metrics import confusion_matrix
